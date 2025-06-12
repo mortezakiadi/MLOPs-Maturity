@@ -10,5 +10,4 @@ https://aws.amazon.com/blogs/machine-learning/mlops-foundation-roadmap-for-enter
 ![image](https://github.com/user-attachments/assets/bd022e19-b4db-42c2-92a8-f4fdd29ac03b)
 
 ## Scalable Phase
-
 ![image](https://github.com/user-attachments/assets/583dce47-78c2-4e2f-a9bd-ff2c86804547)
